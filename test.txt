@@ -1,0 +1,44 @@
+got 95338 files, 1020 tests
+got 90 classes
+.Stacked: 0.0001 0.9 in 0 32 out 0 90
+.Stacked.Parallel: 0.0001 0.9 in 0 32 out 0 200
+.Stacked.Parallel.NPLSTM: 0.0001 0.9 in 0 32 out 0 100
+.Stacked.Parallel.Reversed: 0.0001 0.9 in 0 32 out 0 100
+.Stacked.Parallel.Reversed.NPLSTM: 0.0001 0.9 in 0 32 out 0 100
+.Stacked.SoftmaxLayer: 0.0001 0.9 in 0 200 out 0 90
+0
+TRU methods generally represent electronic states as they appear
+ALN
+OUT
+100
+TRU provide the programmer with two sets of symbolic state-
+ALN prroooee   rrrrrrrrmr w  ts  soolcttttt
+OUT
+steptime 0.300908
+200
+TRU the representation scheme, the applica-
+ALN theereeeeeeeeettttsssschethpppliicc
+OUT e         
+steptime 0.28481
+300
+TRU would not necessarily be accompanied by
+ALN oould not necessariy b accommpanied b
+OUT
+steptime 0.302152
+400
+TRU stream contains two-sided planar objects (flats). The second
+ALN streeaaa conntain twosided planar object (lats. Te secooon
+OUT t eeee eeeee e eeeee  ee    e e
+steptime 0.284714
+500
+TRU Benton, G. S. and Estoque, M. A. 1954. `Water vapour transfer over the North American continent', Journal of Meteorology, 11,
+ALN Benntonn, . S and EEstouue, . . 14. Water vapour transfer oer the Noorth Ammericcan conntinennt,, Jourrnal of Meteorooooog,,, 1,
+OUT tetee eee   e tet tt e ee           tte   e t   teeee    e  e  e te  eet  et e tee  eeteet   tee ee e  t ee eee
+steptime 0.307692
+ERROR 500     48054 36865
+saving 300-dpi-500.clstm
+600
+TRU arate processors are needed: one which computes a bi-
+ALN arate ppocessorss are needded: one whhich computueess a i-
+OUT ttttt tttteeett tt tttttt  tet tnttte tttttttttt  t
+steptime 0.932267
